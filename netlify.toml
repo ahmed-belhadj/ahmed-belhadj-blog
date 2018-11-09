@@ -1,4 +1,0 @@
-[build]
-  base = "client"
-  publish = "client/public"
-  command = "gatsby build"
