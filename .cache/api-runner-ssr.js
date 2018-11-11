@@ -1,27 +1,27 @@
 var plugins = [{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-plugin-google-tagmanager/gatsby-ssr'),
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-plugin-google-tagmanager/gatsby-ssr'),
       options: {"plugins":[],"id":"GTM-MVP42QK","includeInDevelopment":false},
     },{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-remark-autolink-headers/gatsby-ssr'),
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-remark-autolink-headers/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-plugin-typography/gatsby-ssr'),
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography.ts"},
     },{
-      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/client/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Typescript Power Blog","short_name":"Typescript Power Blog - Gatsby Starter","description":"Typescript Power Blog with big typography","start_url":"/","background_color":"#2b2e3c","theme_color":"#3498DB","display":"standalone","icon":"src/favicon.png"},
+      plugin: require('/Users/ahmedbelhadj/Documents/GitHub/ahmed-belhadj-blog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"Ahmed Belhadj Blog","short_name":"Ahmed Belhadj Blog - Gatsby Starter","description":"Typescript Power Blog with big typography","start_url":"/","background_color":"#2b2e3c","theme_color":"#3498DB","display":"standalone","icon":"src/favicon.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

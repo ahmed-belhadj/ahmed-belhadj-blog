@@ -20,34 +20,14 @@
         "path": "/blog"
     },
     {
-        "componentChunkName": "component---src-templates-blog-tsx",
-        "jsonName": "blog-2-353",
-        "path": "/blog/2"
+        "componentChunkName": "component---src-templates-post-tsx",
+        "jsonName": "blog-lambda-labs-week-1-48c",
+        "path": "/blog/lambda-labs-week-1"
     },
     {
         "componentChunkName": "component---src-templates-post-tsx",
-        "jsonName": "blog-a-title-must-be-meaningful-915",
-        "path": "/blog/a-title-must-be-meaningful"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-tsx",
-        "jsonName": "blog-alper-musig-clare-is-a-create-author-40d",
-        "path": "/blog/alper-musig-clare-is-a-create-author"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-tsx",
-        "jsonName": "blog-coding-is-fun-isnt-it-dcb",
-        "path": "/blog/coding-is-fun-isnt-it"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-tsx",
-        "jsonName": "blog-listen-to-music-to-enjoy-coding-f06",
-        "path": "/blog/listen-to-music-to-enjoy-coding"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-tsx",
-        "jsonName": "blog-test-title-for-this-is-a-paragraph-9de",
-        "path": "/blog/test-title-for-this-is-a-paragraph"
+        "jsonName": "blog-lorem-ipsum-ce3",
+        "path": "/blog/lorem-ipsum"
     },
     {
         "componentChunkName": "component---src-templates-all-category-tsx",
@@ -56,23 +36,13 @@
     },
     {
         "componentChunkName": "component---src-templates-category-tsx",
-        "jsonName": "categories-coding-902",
-        "path": "/categories/coding"
+        "jsonName": "categories-lambda-school-180",
+        "path": "/categories/lambda-school"
     },
     {
         "componentChunkName": "component---src-templates-category-tsx",
-        "jsonName": "categories-general-c55",
-        "path": "/categories/general"
-    },
-    {
-        "componentChunkName": "component---src-templates-category-tsx",
-        "jsonName": "categories-music-6e0",
-        "path": "/categories/music"
-    },
-    {
-        "componentChunkName": "component---src-templates-category-tsx",
-        "jsonName": "categories-technology-18f",
-        "path": "/categories/technology"
+        "jsonName": "categories-miscellaneous-c56",
+        "path": "/categories/miscellaneous"
     },
     {
         "componentChunkName": "component---src-pages-contact-tsx",
@@ -91,47 +61,32 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-author-7ea",
-        "path": "/tags/author"
+        "jsonName": "tags-authentication-130",
+        "path": "/tags/authentication"
     },
     {
         "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-book-baf",
-        "path": "/tags/book"
+        "jsonName": "tags-django-f54",
+        "path": "/tags/django"
     },
     {
         "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-coding-9b0",
-        "path": "/tags/coding"
+        "jsonName": "tags-django-rest-framework-d7a",
+        "path": "/tags/django-rest-framework"
     },
     {
         "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-gatsby-9fc",
-        "path": "/tags/gatsby"
+        "jsonName": "tags-json-web-token-f0f",
+        "path": "/tags/json-web-token"
     },
     {
         "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-graphql-9d6",
-        "path": "/tags/graphql"
+        "jsonName": "tags-lambda-labs-6c6",
+        "path": "/tags/lambda-labs"
     },
     {
         "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-music-8f5",
-        "path": "/tags/music"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-react-df8",
-        "path": "/tags/react"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-technology-8fe",
-        "path": "/tags/technology"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-tsx",
-        "jsonName": "tags-typescript-cf7",
-        "path": "/tags/typescript"
+        "jsonName": "tags-res-tful-api-822",
+        "path": "/tags/res-tful-api"
     }
 ]
