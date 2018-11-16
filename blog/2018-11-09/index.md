@@ -159,6 +159,8 @@ urlpatterns = [
 
 Run the server and head over to http://localhost:8000/jwt-token/ to check it out!
 
+[Source](https://medium.com/@dakota.lillie/django-react-jwt-authentication-5015ee00ef9a)
+
 # Milestone Reflections
 
 Working on a new team in software is like eating vegetables for the first time, at first it's uncomfortable, but it's good for you in the long term and becomes enjoyable sooner rather than later.

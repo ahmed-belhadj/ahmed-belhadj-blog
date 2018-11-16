@@ -26,6 +26,11 @@
     },
     {
         "componentChunkName": "component---src-templates-post-tsx",
+        "jsonName": "blog-lambda-labs-week-2-a1f",
+        "path": "/blog/lambda-labs-week-2"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-tsx",
         "jsonName": "blog-lorem-ipsum-ce3",
         "path": "/blog/lorem-ipsum"
     },
@@ -86,7 +91,17 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-tsx",
+        "jsonName": "tags-react-df8",
+        "path": "/tags/react"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-tsx",
         "jsonName": "tags-res-tful-api-822",
         "path": "/tags/res-tful-api"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-tsx",
+        "jsonName": "tags-stripe-652",
+        "path": "/tags/stripe"
     }
 ]
