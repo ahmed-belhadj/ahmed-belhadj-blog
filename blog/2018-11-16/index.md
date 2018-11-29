@@ -7,7 +7,7 @@ tags: ["Lambda Labs", "React", "Stripe"]
 
 # Accomplishments
 
-**[View this week's whiteboard interview here!](https://www.youtube.com)**
+**[View this week's whiteboard interview here!](https://youtu.be/nFpbvtor4FA)**
 
 **[View this week's contribution graph here!](https://github.com/Lambda-School-Labs/Labs8-JobMatcher/graphs/contributors?from=2018-11-11&to=2018-11-17&type=c)**
 
